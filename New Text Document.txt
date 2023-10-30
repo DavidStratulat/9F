@@ -1,1 +1,2 @@
-primul fisier versionat
+primul fisier versionat.
+aceasta este a doua oara cand versionez acest fisier.
